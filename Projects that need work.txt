@@ -1,0 +1,34 @@
+Projects that still need work and fixing
+----------------------------------------
+
+
+ARGUS 
+---------------------------------
+-needs a new voice
+-more data to train off of
+-prevent inactivity and make it so it runs automatically on start as a app/software
+Maybe add
+-opencv face recognition/object recognition 
+
+
+SpiderCrawler
+---------------------------------
+-need to fix the repeated description issues 
+-the other options associated with scanning need to have their results printed and add more scanning options 
+
+
+Dataprocessingandloading
+---------------------------------
+-fix the output
+-reformat the way it handles data that is put in the program 
+-make it more of a generalized system for all data loading needs
+
+
+Symbol Recognition 
+---------------------------------
+-This is a idea for a project that would utilize opencv to recognize symbols and tattoos in the real world and provide a description and what the symbols are associated with
+
+
+Camfinderintelfacerecogntion
+---------------------------------
+-This is a idea for a project that would scrape webcams all over the web and hack into them and utilize face recognition and license plate recognition to identify people and things
