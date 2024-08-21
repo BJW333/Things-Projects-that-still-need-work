@@ -9,6 +9,7 @@ ARGUS
 -prevent inactivity and make it so it runs automatically on start as a app/software
 Maybe add
 -opencv face recognition/object recognition 
+-pytesseract is another option for summerizing papers and such
 
 
 SpiderCrawler
