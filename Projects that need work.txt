@@ -37,4 +37,5 @@ Camfinderintelfacerecogntion
 findpeopleinfo
 ---------------------------------
 -needs to be fixed and more outputs
+-needs more places to gather info from
 -clean up variables and organization of code
