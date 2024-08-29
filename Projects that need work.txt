@@ -33,3 +33,8 @@ Symbol Recognition
 Camfinderintelfacerecogntion
 ---------------------------------
 -This is a idea for a project that would scrape webcams all over the web and hack into them and utilize face recognition and license plate recognition to identify people and things
+
+findpeopleinfo
+---------------------------------
+-needs to be fixed and more outputs
+-clean up variables and organization of code
